@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="43374" started-at="2018-07-15T12:10:27Z" finished-at="2018-07-15T12:11:11Z">
+  <suite name="Default suite" duration-ms="19876" started-at="2018-07-15T16:17:14Z" finished-at="2018-07-15T16:17:34Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="43374" started-at="2018-07-15T12:10:27Z" finished-at="2018-07-15T12:11:11Z">
+    <test name="Default test" duration-ms="19876" started-at="2018-07-15T16:17:14Z" finished-at="2018-07-15T16:17:34Z">
       <class name="TestCase.Pre_Login_Home">
-        <test-method status="PASS" signature="ok()[pri:0, instance:TestCase.Pre_Login_Home@60285225]" name="ok" is-config="true" duration-ms="8" started-at="2018-07-15T12:10:27Z" finished-at="2018-07-15T12:10:27Z">
+        <test-method status="PASS" signature="ok()[pri:0, instance:TestCase.Pre_Login_Home@60285225]" name="ok" is-config="true" duration-ms="7" started-at="2018-07-15T16:17:14Z" finished-at="2018-07-15T16:17:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ok -->
-        <test-method status="PASS" signature="start()[pri:0, instance:TestCase.Pre_Login_Home@60285225]" name="start" is-config="true" duration-ms="40300" started-at="2018-07-15T12:10:27Z" finished-at="2018-07-15T12:11:08Z">
+        <test-method status="PASS" signature="start()[pri:0, instance:TestCase.Pre_Login_Home@60285225]" name="start" is-config="true" duration-ms="13345" started-at="2018-07-15T16:17:14Z" finished-at="2018-07-15T16:17:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method status="PASS" signature="PreLoginHeader_HomePage()[pri:0, instance:TestCase.Pre_Login_Home@60285225]" name="PreLoginHeader_HomePage" duration-ms="2350" started-at="2018-07-15T12:11:08Z" finished-at="2018-07-15T12:11:10Z">
+        <test-method status="PASS" signature="PreLoginHeader_HomePage()[pri:0, instance:TestCase.Pre_Login_Home@60285225]" name="PreLoginHeader_HomePage" duration-ms="5769" started-at="2018-07-15T16:17:27Z" finished-at="2018-07-15T16:17:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PreLoginHeader_HomePage -->
-        <test-method status="PASS" signature="close()[pri:0, instance:TestCase.Pre_Login_Home@60285225]" name="close" is-config="true" duration-ms="707" started-at="2018-07-15T12:11:10Z" finished-at="2018-07-15T12:11:11Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:TestCase.Pre_Login_Home@60285225]" name="close" is-config="true" duration-ms="746" started-at="2018-07-15T16:17:33Z" finished-at="2018-07-15T16:17:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method status="PASS" signature="generate_report()[pri:0, instance:TestCase.Pre_Login_Home@60285225]" name="generate_report" is-config="true" duration-ms="4647" started-at="2018-07-15T12:11:11Z" finished-at="2018-07-15T12:11:16Z">
+        <test-method status="PASS" signature="generate_report()[pri:0, instance:TestCase.Pre_Login_Home@60285225]" name="generate_report" is-config="true" duration-ms="4331" started-at="2018-07-15T16:17:34Z" finished-at="2018-07-15T16:17:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generate_report -->
