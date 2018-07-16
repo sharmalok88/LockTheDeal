@@ -4,10 +4,6 @@ import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import static org.testng.Assert.assertTrue;
-
-import java.util.Properties;
-import Assertions_pkg.Assertion_Class;
 import Common.Logo;
 import Common.ScreenShot;
 import Common.logs;
